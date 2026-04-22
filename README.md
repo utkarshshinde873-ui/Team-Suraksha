@@ -1,6 +1,6 @@
 # Team-Suraksha
 team Surakhsha public information repository
-🚨 Smart SOS Emergency Device
+🚨 Suraksha SOS Emergency Device
 
 A compact and reliable SOS emergency device built using Arduino that helps users send their real-time location via SMS during emergencies with a single button press.
 
